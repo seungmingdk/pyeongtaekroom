@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url><loc>https://pyeongtaekroom.kr/</loc></url>
+
+  <url><loc>https://pyeongtaekroom.kr/godeok/</loc></url>
+  <url><loc>https://pyeongtaekroom.kr/godeok/karaoke/</loc></url>
+  <url><loc>https://pyeongtaekroom.kr/godeok/shirtroom/</loc></url>
+  <url><loc>https://pyeongtaekroom.kr/godeok/threeno/</loc></url>
+
+  <url><loc>https://pyeongtaekroom.kr/songtan/</loc></url>
+  <url><loc>https://pyeongtaekroom.kr/songtan/karaoke/</loc></url>
+  <url><loc>https://pyeongtaekroom.kr/songtan/shirtroom/</loc></url>
+  <url><loc>https://pyeongtaekroom.kr/songtan/threeno/</loc></url>
+
+  <url><loc>https://pyeongtaekroom.kr/pyeongtaek/</loc></url>
+  <url><loc>https://pyeongtaekroom.kr/pyeongtaek/karaoke/</loc></url>
+  <url><loc>https://pyeongtaekroom.kr/pyeongtaek/shirtroom/</loc></url>
+  <url><loc>https://pyeongtaekroom.kr/pyeongtaek/threeno/</loc></url>
+
+</urlset>
